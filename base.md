@@ -94,7 +94,10 @@ Pour cette classe, il y a 2 paramètres essentiels à fournir :
 
 - Le champs de vision (fov) : Le champ de vision est l'étendue de l'angle de vision. Si vous utilisez un très grand angle, vous pourrez voir dans toutes les directions à la fois, mais avec beaucoup de distorsion, car le résultat sera dessiné sur un petit rectangle. Si vous utilisez un petit angle, vous aurez l'impression de zoomer. Le champ de vision (ou fov) est exprimé en degrés et correspond à l'angle de vision vertical. Pour cet exercice, nous utiliserons un angle de 75 degrés.
     
-    [fovWorkshop.mp4](./assets/base/fovWorkshop.mp4)
+<video width="640" height="480" controls>
+  <source src="./assets/base/fovWorkshop.mp4" type="video/mp4">
+  Votre navigateur ne prend pas en charge la vidéo.
+</video>
     
 - le ratio d’aspect (aspect ratio) : dans la plupart des cas, il s’agit de la largeur du canvas divisé par sa hauteur. Nous allons créer un objet `sizes` dans lequel on va spécifier la largueur et l’hauteur du canvas dans lequel on va render.
 
