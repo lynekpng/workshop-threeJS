@@ -1,8 +1,7 @@
 
 
 # This is my exercice of the threeJS workshop that [@HappyFeys](https://github.com/HappyFeys) conducted during out training at Becode 
-# Bienvenue au Workshop ThreeJs
-Voici le programme d'aujourd'hui : 
+what we learned : 
 
 - [Présentation](./creationInstallation.md)
 - [Installation](./creationInstallation.md)
@@ -19,8 +18,10 @@ Voici le programme d'aujourd'hui :
     - Ajouter de la lumière
     - etc
 
-
-Workshop, dans le cadre de la formation BeCode, basé et inspiré par le magnifique cours de Bruno Simons, [Three.Js Journey](https://threejs-journey.com/).
-Si ce workshop vous a plu et souhaitez en apprendre plus, je vous le conseille vivement !
-
+ ## finished product
 ![App Screenshot](project.png)
+
+
+
+[original repository](https://github.com/HappyFeys/workshop-threeJs)
+[author and worskhop conductor](https://github.com/HappyFeys)
