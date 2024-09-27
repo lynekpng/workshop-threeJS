@@ -230,7 +230,7 @@ const canvas = document.querySelector('.webgl')
 const scene = new THREE.Scene()
 
 // Objet
-const geometry = new THREE.BoxGeometry(1,1,1)
+const geometry = 
 const material = new THREE.MeshBasicMaterial({color : 0xff0000})
 const mesh = new THREE.Mesh(geometry, material)
 
