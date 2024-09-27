@@ -1,6 +1,6 @@
 
 
-# # This is my exercice of the threeJS workshop that [@HappyFeys](https://github.com/HappyFeys) conducted during out training at Becode 
+# This is my exercice of the threeJS workshop that [@HappyFeys](https://github.com/HappyFeys) conducted during out training at Becode 
 # Bienvenue au Workshop ThreeJs
 Voici le programme d'aujourd'hui : 
 
