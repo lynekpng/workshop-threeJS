@@ -1,6 +1,6 @@
 # Bienvenue au Workshop ThreeJs
 
-(This is my exercice of the threeJS workshop that @HappyFeys conducted at Becode.) 
+##(This is my exercice of the threeJS workshop that @HappyFeys conducted at Becode) 
 
 Voici le programme d'aujourd'hui : 
 
@@ -23,4 +23,4 @@ Voici le programme d'aujourd'hui :
 Workshop, dans le cadre de la formation BeCode, basé et inspiré par le magnifique cours de Bruno Simons, [Three.Js Journey](https://threejs-journey.com/).
 Si ce workshop vous a plu et souhaitez en apprendre plus, je vous le conseille vivement !
 
-[logo] (project.png)
+![App Screenshot](project.png)
