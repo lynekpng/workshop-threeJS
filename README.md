@@ -1,6 +1,6 @@
 # Bienvenue au Workshop ThreeJs
 
-##(This is my exercice of the threeJS workshop that @HappyFeys conducted at Becode) 
+# # This is my exercice of the threeJS workshop that @HappyFeys conducted at Becode 
 
 Voici le programme d'aujourd'hui : 
 
