@@ -24,4 +24,4 @@ what we learned :
 
 
 - [original repository](https://github.com/HappyFeys/workshop-threeJs)
-- [author and worskhop conductor](https://github.com/HappyFeys)
+- [Dylan, author and conductor of the workshop](https://github.com/HappyFeys)
